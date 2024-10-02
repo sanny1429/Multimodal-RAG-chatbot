@@ -1,0 +1,30 @@
+# Environment Variables
+key.json
+
+.env
+
+# Python Bytecode Files
+*.pyc
+__pycache__/
+
+# Docker-specific files
+/app/faiss_index/
+*.log
+
+# Jupyter Notebooks Checkpoints
+.ipynb_checkpoints
+
+# System-specific files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Streamlit Cache
+.streamlit/
+
+# VSCode settings (if you're using VS Code)
+.vscode/
+
+# Virtual Environment
+venv/
+env/
+
